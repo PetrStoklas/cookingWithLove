@@ -1,14 +1,11 @@
 // Your own styles
 
-.jumbotron {
+.my-jumbo {
+    height: 79vh;
     background-image: url('../img/banner.jpg');
     background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.my-container {
-    height: 79vh;
+    background-size: cover;
+    // background-repeat: no-repeat;
 }
 
 .circle1 {
