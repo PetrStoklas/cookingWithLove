@@ -1,5 +1,34 @@
 // Your own styles
 
 .jumbotron {
-    background-color: url()
+    background-image: url('../img/banner.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
+
+.my-container {
+    height: 86vh;
+}
+
+.circle1 {
+    background-image: url('../img/chicken.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15em;
+}
+
+.circle2 {
+    background-image: url('../img/pasta.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15em;
+}
+
+.circle3 {
+    background-image: url('../img/salad.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15em;
+}
+
